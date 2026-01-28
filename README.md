@@ -81,7 +81,7 @@
 - ✉️ Telegram: [@TkAs007bot](https://t.me/TkAs007bot)  
 - 📚 Книга: [Ridero.ru/books/kod_zhizni](https://ridero.ru/books/kod_zhizni_kak_ya_stal_programmistom_v_55_let/)  
 - 💡 Портфолио: [vvetoshkin.ru](https://vvetoshkin.ru)  
-- 📸 YouTube: [youtube.com/@ВячеславВетошкин-у7с](youtube.com/@ВячеславВетошкин-у7с)
+- 📸 YouTube: [youtube.com](https://youtube.com/@ВячеславВетошкин-у7с)
 
 ---
 
