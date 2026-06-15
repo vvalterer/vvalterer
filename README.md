@@ -29,19 +29,14 @@
 
 ---
 
-## 🧠 Навыки и технологии
+### Основная специализация
 
-**Языки и фреймворки:**
-> Python (Django, Aiogram), HTML5, CSS3, JavaScript, SQL, Bootstrap 5
-
-**Базы данных:**
-> SQLite, PostgreSQL, MySQL
-
-**Инфраструктура и DevOps:**
-> Linux (Ubuntu), Nginx, Gunicorn, Git, GitHub, Cloud.ru, VPS
-
-**Интеграции:**
-> Telegram Bot API, YooKassa, SendPulse, OpenAI API, DeepSeek, REST API
+- Разработка веб-приложений на Django
+- Telegram-боты для бизнеса
+- AI-интеграции и чат-боты
+- Автоматизация продаж и бизнес-процессов
+- CRM и SaaS-системы
+- Развертывание проектов на VPS
 
 ---
 
