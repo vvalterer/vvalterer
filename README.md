@@ -61,8 +61,8 @@
 | Репозиторий | Назначение |
 |--------------|-------------|
 | [**1vetoshkin**](https://github.com/vvalterer/1vetoshkin) | Django сайт самозанятого разработчика |
-| [**vvbook**](https://github.com/vvalterer/vvbook) | Сайт и блог о программировании и нейросетях |
-| [**tentoriumrb**](https://github.com/vvalterer/tentoriumrb) | Интернет-магазин пчелопродукции на Joomla |
+| [**vvbook**](https://github.com/vvalterer/vvbook) | Сайт и блог о программировании и нейросетях |. | 🔴 Проект временно недоступен в связи с аварией на стороне хостинг-провайдера. Восстановление сервиса выполняется |
+| [**tentoriumrb**](https://github.com/vvalterer/tentoriumrb) | Интернет-магазин пчелопродукции на Joomla |. | 🔴 Проект временно недоступен в связи с аварией на стороне хостинг-провайдера. Восстановление сервиса выполняется |
 | *(будут добавлены)* | Telegram-боты, AI-сервисы и CRM-системы |
 
 ---
@@ -80,8 +80,9 @@
 - 🌐 Сайт: [1vetoshkin.ru](https://1vetoshkin.ru)  
 - ✉️ Telegram: [@TkAs007bot](https://t.me/TkAs007bot)  
 - 📚 Книга: [Ridero.ru/books/kod_zhizni](https://ridero.ru/books/kod_zhizni_kak_ya_stal_programmistom_v_55_let/)  
-- 💡 Портфолио: [vvetoshkin.ru](https://vvetoshkin.ru)  
+- 💡 Портфолио: [1vetoshkin.ru](https://1vetoshkin.ru)  
 - 📸 YouTube: [youtube.com](https://youtube.com/@ВячеславВетошкин-у7с)
+- 🔵 VK: [vk.com/vetoshkin_dev](https://vk.com/vetoshkin_dev)
 
 ---
 
