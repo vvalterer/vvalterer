@@ -63,8 +63,8 @@
 
 | Репозиторий | Назначение | Статус |
 |------------|------------|--------|
-| [**1vetoshkin**](https://github.com/vvalterer/1vetoshkin) | Django сайт самозанятого разработчика | 🟢 Онлайн |
-| [**vvbook**](https://github.com/vvalterer/vvbook) | Сайт и блог о программировании и нейросетях | 🔴 Сайт временно недоступен |
+| [**1vetoshkin**](https://github.com/vvalterer/1vetoshkin) | Основной сайт разработчика. Django 5, каталог цифровых продуктов, личный кабинет и платежная система. | 🟢 Онлайн |
+| [**vvbook**](https://github.com/vvalterer/vvbook) | Сайт платформа для публикации книг | 🔴 Сайт временно недоступен |
 | [**tentoriumrb**](https://github.com/vvalterer/tentoriumrb) | Интернет-магазин пчелопродукции на Django | 🔴 Сайт временно недоступен |
 | [**AutoPost_VK_TG**](https://github.com/vvalterer/AutoPost_VK_TG) | Готовый Django-сервис для отложенной публикации постов в Telegram-канал и VK-сообщество из одной админ-панели. | 🟢 Онлайн |
 | [**django-yadisk-backup**](https://github.com/vvalterer/django-yadisk-backup) | Готовый DevOps-инструмент для автоматического резервного копирования Django-проектов на Яндекс.Диск | 🟢 Онлайн |
