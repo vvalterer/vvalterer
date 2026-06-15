@@ -64,9 +64,14 @@
 | Репозиторий | Назначение | Статус |
 |------------|------------|--------|
 | [**1vetoshkin**](https://github.com/vvalterer/1vetoshkin) | Django сайт самозанятого разработчика | 🟢 Онлайн |
-| [**vvbook**](https://github.com/vvalterer/vvbook) | Сайт и блог о программировании и нейросетях | 🔴 Временно недоступен |
-| [**tentoriumrb**](https://github.com/vvalterer/tentoriumrb) | Интернет-магазин пчелопродукции на Django | 🔴 Временно недоступен |
+| [**vvbook**](https://github.com/vvalterer/vvbook) | Сайт и блог о программировании и нейросетях | 🔴 Сайт временно недоступен |
+| [**tentoriumrb**](https://github.com/vvalterer/tentoriumrb) | Интернет-магазин пчелопродукции на Django | 🔴 Сайт временно недоступен |
+| [**AutoPost_VK_TG**](https://github.com/vvalterer/AutoPost_VK_TG) | Готовый Django-сервис для отложенной публикации постов в Telegram-канал и VK-сообщество из одной админ-панели. | 🟢 Онлайн |
+| [**django-yadisk-backup**](https://github.com/vvalterer/django-yadisk-backup) | Готовый DevOps-инструмент для автоматического резервного копирования Django-проектов на Яндекс.Диск | 🟢 Онлайн |
+| [**django-github-actions-docker-cicd-starter**](https://github.com/vvalterer/django-github-actions-docker-cicd-starter) | Готовый набор конфигураций для автоматического деплоя Django-проекта на VPS через GitHub Actions, Docker, Nginx и Gunicorn | 🟢 Онлайн |
+| [**BusinessFlow**](https://github.com/vvalterer/BusinessFlow) | Self-hosted платформа автоматизации малого бизнеса (CRM + задачи + workflow) | 🟡 В разработке |
 | *(будут добавлены)* | Telegram-боты, AI-сервисы и CRM-системы | 🟡 В разработке |
+
 
 ---
 
